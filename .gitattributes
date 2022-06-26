@@ -1,1 +1,4 @@
 C:/Users/azeem/OneDrive/Desktop/Ultimate[[:space:]]Shortcut[[:space:]]EXEs filter=lfs diff=lfs merge=lfs -text
+EXEs/ filter=lfs diff=lfs merge=lfs -text
+Ultimate filter=lfs diff=lfs merge=lfs -text
+Shortcut filter=lfs diff=lfs merge=lfs -text
