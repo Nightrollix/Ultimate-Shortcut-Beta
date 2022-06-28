@@ -15,4 +15,4 @@ BY VISITING THIS PAGE AND/OR DOWNLOADING ULTIMATE SHORCUT ALPHA/BETA VER, YOU AG
 
 DOWNLOAD ulsh-installer-alpha-v-1.00.exe to install the software
 
--Azeem Ahmed/Nightrollix
+all rights reserved to Azeem Ahmed/Nightrollix
